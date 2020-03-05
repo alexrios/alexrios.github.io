@@ -5,9 +5,22 @@
     <link>https://alexrios.dev/</link>
     <description>Recent content on Alex Rios</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 24 Feb 2020 11:24:48 -0300</lastBuildDate>
     
 	<atom:link href="https://alexrios.dev/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>O que é um Tech Leader em 2020?</title>
+      <link>https://alexrios.dev/posts/tech-leader-2020/</link>
+      <pubDate>Mon, 24 Feb 2020 11:24:48 -0300</pubDate>
+      
+      <guid>https://alexrios.dev/posts/tech-leader-2020/</guid>
+      <description>O que tem ocorrido muito no cenário das empresas de tecnologia é querer contratar apenas desenvolvedores sêniors.
+Principalmente por estar contratando um conjunto de habilidades e experiências, acredita-se que essas pessoas já serão operacionais desde o dia 1 na empresa, economizando o famoso tempo de Ramp-Up.
+ Ramp-up — etapa que define o ínicio da produção de uma indústria, com o objetivo de comercializar um produto novo
+ Com isso, desenvolvedores com pouca ou nenhuma experiência ficam jogados de lado na atual guerra das contratações.</description>
+    </item>
     
   </channel>
 </rss>
