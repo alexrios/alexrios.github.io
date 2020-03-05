@@ -8,7 +8,17 @@
   </url>
   
   <url>
-    <loc>https://alexrios.dev/posts/tech-leader-2020/</loc>
+    <loc>https://alexrios.dev/tags/autogest%C3%A3o/</loc>
+    <lastmod>2020-02-24T11:24:48-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alexrios.dev/tags/lideran%C3%A7a/</loc>
+    <lastmod>2020-02-24T11:24:48-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alexrios.dev/posts/2020/tech-leader-2020/</loc>
     <lastmod>2020-02-24T11:24:48-03:00</lastmod>
   </url>
   
@@ -18,26 +28,72 @@
   </url>
   
   <url>
-    <loc>https://alexrios.dev/posts/private-go-lib-github-actions/</loc>
+    <loc>https://alexrios.dev/tags/</loc>
+    <lastmod>2020-02-24T11:24:48-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alexrios.dev/tags/tech-leader/</loc>
+    <lastmod>2020-02-24T11:24:48-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alexrios.dev/tags/git/</loc>
     <lastmod>2020-01-30T12:27:07-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alexrios.dev/posts/normalizacao-mediocridade/</loc>
+    <loc>https://alexrios.dev/tags/github/</loc>
+    <lastmod>2020-01-30T12:27:07-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alexrios.dev/tags/github-actions/</loc>
+    <lastmod>2020-01-30T12:27:07-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alexrios.dev/tags/go/</loc>
+    <lastmod>2020-01-30T12:27:07-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alexrios.dev/posts/2020/private-go-lib-github-actions/</loc>
+    <lastmod>2020-01-30T12:27:07-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alexrios.dev/tags/private-lib/</loc>
+    <lastmod>2020-01-30T12:27:07-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alexrios.dev/posts/2019/using-private-go-libs/</loc>
+    <lastmod>2019-12-29T14:15:37-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alexrios.dev/posts/2019/normalizacao-mediocridade/</loc>
     <lastmod>2019-08-08T12:27:07-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alexrios.dev/posts/sua-equipe-nao-pode-usar-microservicos/</loc>
+    <loc>https://alexrios.dev/tags/mvp/</loc>
+    <lastmod>2019-08-08T12:27:07-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alexrios.dev/tags/microservices/</loc>
+    <lastmod>2019-05-30T12:27:07-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alexrios.dev/posts/2019/sua-equipe-nao-pode-usar-microservicos/</loc>
     <lastmod>2019-05-30T12:27:07-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://alexrios.dev/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://alexrios.dev/tags/</loc>
   </url>
   
 </urlset>

@@ -1,0 +1,10 @@
+[
+    {
+        "ref": "https://alexrios.dev/posts/2019/using-private-go-libs/",
+        "title": "Using private Golang libs",
+        "section": "posts",
+        "tags": ["go","private lib","github","git"],
+        "date" : "2019.12.29",
+        "body": "1 - Configure GIT (~/.gitconfig)\n[url \u0026quot;ssh://git@github.com/\u0026quot;] insteadOf = https://github.com/ 2 - Add the private repository location in GOPRIVATE env var\ngo env -w GOPRIVATE=\u0026quot;github.com/\u0026lt;org\u0026gt;/\u0026lt;project\u0026gt;\u0026quot; "
+    }
+]
