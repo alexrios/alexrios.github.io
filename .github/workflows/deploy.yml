@@ -1,0 +1,17 @@
+name: Repository Dispatch
+on:
+  repository_dispatch:
+    types: [new-push-from-astro-source]
+jobs:
+  myEvent:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: main
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.client_payload.ref }}
+          repository: alexrios/alexriosme
+          token: ${{ secrets.ASTRO_PAT }}
+      - run: echo ${{ github.event.client_payload.sha }}
