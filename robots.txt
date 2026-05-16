@@ -1,6 +1,6 @@
 
 User-agent: *
-Disallow: /
+Allow: /
 
 User-agent: GPTBot
 Disallow: /
@@ -31,8 +31,5 @@ Disallow: /
 
 User-agent: PerplexityBot
 Disallow: /
-
-Crawl-delay: 600
-
 
 Sitemap: https://alexrios.me/sitemap-index.xml
